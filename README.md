@@ -2,4 +2,3 @@
 ## Problem
 ![](problem.png)
 ## Sample Output
-![](output.png)
